@@ -22,7 +22,7 @@ public class Strobodisk {
   private static final int WIDTH = DIAMETER+(MARGIN*2);
   private static final int HEIGHT = WIDTH;
   private static final int NUM_OCTAVES = 8;
-  private static final int INNER_DIAMETER = 512;
+  private static final int INNER_DIAMETER = 764;
   private static final int BAR_HEIGHT = ((DIAMETER-INNER_DIAMETER)/NUM_OCTAVES)/2;
   private static final int CENTER_X = WIDTH/2;
   private static final int CENTER_Y = HEIGHT/2;
